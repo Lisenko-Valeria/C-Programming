@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libMY_LIB_BG.so -o libMY_LIB_BG.so CMakeFiles/MY_LIB_BG.dir/background.c.o  -Wl,-rpath,/home/valeria/lab12/task1/build/pipes ../pipes/libMY_LIB_PIP.so 

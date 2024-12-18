@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/main.c.o -o main  -Wl,-rpath,/home/valeria/lab12/task1/build/background:/home/valeria/lab12/task1/build/pipes background/libMY_LIB_BG.so pipes/libMY_LIB_PIP.so 
